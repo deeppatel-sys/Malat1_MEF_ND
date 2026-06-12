@@ -1,0 +1,39 @@
+track type=bigWig name="KORO-1" description="KORO replicate 1 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135ba5438f6b7241f60/display?to_ext=bigwig
+
+track type=bigWig name="KORO-2" description="KORO replicate 2 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135906ed789aeab7c9a/display?to_ext=bigwig
+
+track type=bigWig name="KORO-3" description="KORO replicate 3 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135442a6253341a042e/display?to_ext=bigwig
+
+track type=bigWig name="KOAsy-1" description="KOAsy replicate 1 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135a789051576e59904/display?to_ext=bigwig
+
+track type=bigWig name="KOAsy-2" description="KOAsy replicate 2 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135575796f8ec30561f/display?to_ext=bigwig
+
+track type=bigWig name="KOAsy-3" description="KOAsy replicate 3 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a47213586c609b71d921b49/display?to_ext=bigwig
+
+track type=bigWig name="WTRO-1" description="WTRO replicate 1 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135bb61807c0f300c96/display?to_ext=bigwig
+
+track type=bigWig name="WTRO-2" description="WTRO replicate 2 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135a67856bd6d442feb/display?to_ext=bigwig
+
+track type=bigWig name="WTRO-3" description="WTRO replicate 3 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a4721351cf36c09784582ff/display?to_ext=bigwig
+
+track type=bigWig name="WTAsy-1" description="WTAsy replicate 1 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135dd5b196f226d624b/display?to_ext=bigwig
+
+track type=bigWig name="WTAsy-2" description="WTAsy replicate 2 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a4721353deb927b7b5df692/display?to_ext=bigwig
+
+track type=bigWig name="WTAsy-3" description="WTAsy replicate 3 CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135b933cb1dabd6c6a7/display?to_ext=bigwig
+
+
+
+
+
+track type=bigWig name="WT-CTCF-ChipSeq" description="Combined 6 bam files to single bigwig CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a47213536a46025b6b18816/display?to_ext=bigwig
+
+track type=bigWig name="WT-H3K4ME3-ChipSeq" description="Combined 3 bam files to single bigwig CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135d3333e4086717401/display?to_ext=bigwig
+
+track type=bigWig name="WT-H3K27AC-ChipSeq" description="Combined 3 bam files to single bigwig CPM" visibility=full bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135e46bc51901dbe3e0/display?to_ext=bigwig
+
+
+
+
+
+track type=hic name="WT_merged_HiC" description="WT merged Hi-C contact map" bigDataUrl=https://usegalaxy.org/api/datasets/f9cad7b01a472135272c4f32e7e63ccf/display?to_ext=hic
